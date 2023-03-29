@@ -1,11 +1,19 @@
 # DL-course-for-linguists-22-23
 I made and use this notebooks to explain introduction to Deep Learning for linguists at HSE University. <br>
-This course has 11 notebooks and cover different themes:
-1. Sequentioal Dense NN
-2. Concatination and functional keras api
-3. CNN and callbacks
-4. RNN, data generators and validation
-5. Cross-validation
-6. GAN
+This course has 10 notebooks and cover theese themes:
+- Classification problem:
+    - Sequentioal Dense NN
+    - Concatination and functional keras api
+    - CNN
+    - RNN, data generators and validation
+    - Cross-validation
+- Generation:
+    - GAN (example on pictures)
+    - Text generation using RNN
+    - Transformers
+- Usage of pretrained models
+    - Text generation with fine-tuned GPT2
+    - Text classification using Bert
 <br>
-Theese notebooks don't have any text descriptions in them, so you are free to modify and use them however you want
+
+You are free to use and modify them however you like 
